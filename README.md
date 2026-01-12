@@ -143,19 +143,19 @@
         <div id="services">
             <div class="service-card">
                 <div class="price-info"><strong>1,000 (1K) Followers</strong><span>$2.30</span></div>
-                <button class="select-btn" onclick="openOrder('1K Followers', '$2.30')">Select</button>
+                <button class="select-btn" onclick="openOrder('1K Followers', '$2.30 or inr230')">Select</button>
             </div>
             <div class="service-card">
                 <div class="price-info"><strong>3,000 (3K) Followers</strong><span>$6.90</span></div>
-                <button class="select-btn" onclick="openOrder('3K Followers', '$6.90')">Select</button>
+                <button class="select-btn" onclick="openOrder('3K Followers', '$6.90 or inr690')">Select</button>
             </div>
             <div class="service-card" style="border-color: gold;">
                 <div class="price-info"><strong>10,000 (10K) Followers <span class="badge">BEST VALUE</span></strong><span>$22.00</span></div>
-                <button class="select-btn" onclick="openOrder('10K Followers', '$22.00')">Select</button>
+                <button class="select-btn" onclick="openOrder('10K Followers', '$22.00 or inr2200')">Select</button>
             </div>
             <div class="service-card" style="border-color: gold;">
                 <div class="price-info"><strong>20,000 (20K) Followers <span class="badge">PREMIUM</span></strong><span>$42.00</span></div>
-                <button class="select-btn" onclick="openOrder('20K Followers', '$42.00')">Select</button>
+                <button class="select-btn" onclick="openOrder('20K Followers', '$42.00 or inr4200')">Select</button>
             </div>
         </div>
 
@@ -166,7 +166,7 @@
             
             <p style="font-size: 0.9rem; color: #ccc;">Scan QR with Binance App to Pay:</p>
             <div class="qr-container">
-                <img src="https://i.ibb.co/XRs6X9N/binance-qr.png" alt="Binance QR Code">
+                <img src="qr-image-1768230561987.png" alt="Binance QR Code">
             </div>
             
             <p style="font-size: 0.8rem;">After payment, click below to send screenshot & details to Admin.</p>
